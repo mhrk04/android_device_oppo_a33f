@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-
+#TODO: adding vendor filr
 $(call inherit-product-if-exists, vendor/oppo/a33f/a33f-vendor.mk)
 
 #TODO: add overlay folder
