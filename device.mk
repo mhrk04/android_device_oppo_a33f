@@ -16,6 +16,7 @@
 
 $(call inherit-product-if-exists, vendor/oppo/a33f/a33f-vendor.mk)
 
+#TODO: add overlay folder
 # Overlay
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
