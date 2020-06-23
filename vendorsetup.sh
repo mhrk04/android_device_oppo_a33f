@@ -15,3 +15,5 @@
 #
 
 add_lunch_combo cm_a33f-userdebug
+add_lunch_combo cm_a33f-debug
+add_lunch_combo cm_a33f-eng
